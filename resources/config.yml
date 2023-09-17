@@ -1,0 +1,6 @@
+items:
+  dirt: 1
+  stone: 2
+
+# Exceeding the over weight threshold will prevent the player from moving.
+over-weight: 1000
