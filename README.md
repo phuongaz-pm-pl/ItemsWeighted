@@ -4,4 +4,4 @@ A PocketMine plugin that adds weight to items, causing players to move slower as
 
 ##### Todo:
 
- -[ ] Check while flying and jumping.
+ - [ ] Check while flying and jumping.
